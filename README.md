@@ -1,2 +1,2 @@
 # HTML5
-midterm proj
+RepreScent Midterm Project for HTML5
